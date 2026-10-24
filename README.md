@@ -188,7 +188,7 @@
   <a href="https://t.me/webgendarme">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/vladimir-leksakov-b38a88340/">
+  <a href="https://www.linkedin.com/in/vladimir-leksakov">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
