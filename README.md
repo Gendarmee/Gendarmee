@@ -174,15 +174,6 @@
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gendarmee&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gendarmee&theme=highcontrast&layout=compact&hide_border=true&hide=html,css&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 ## Contact & Availability
 
 <p align="center">
