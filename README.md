@@ -1,57 +1,203 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=800&lines=VLADIMIR+LEKSAKOV;Java+Backend+Engineer;Microservices+%7C+Event-Driven+%7C+DDD" alt="Typing SVG" />
+</h1>
 
-Vladimir Leksakov
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-F89820?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-39D353?style=flat-square" />
+</p>
 
+<br />
 
-Software Engineer | Backend & Machine Learning Developer
+<p align="center">
+  <strong>Java Backend Engineer</strong> specializing in high-performance microservices, event-driven architectures, and domain-driven design. I build scalable, maintainable systems using modern Java (21), Spring ecosystem, and distributed technologies. Focused on clean architecture, testability, and production-grade code quality.
+</p>
 
-Belarus | github.com
+---
 
-Summary
+## 🛠 Technology Stack
 
-Software Engineer specializing in Java Enterprise ecosystem and low-level C++ development. Focused on designing high-performance backend systems, integrating robust IAM platforms (Keycloak), and developing practical applications in Computer Vision and artificial intelligence. Strong advocate for clean code, innovative problem-solving, and building reusable open-source infrastructure components.
+### Core Backend
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br><sub>Java 21</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br><sub>Spring</sub>
+    </td>
+    <!-- OpenTelemetry / OTLP -->
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" width="48" height="48" alt="OpenTelemetry" />
+      <br><sub>OpenTelemetry</sub>
+    </td>
+    <!-- Prometheus -->
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" />
+      <br><sub>Prometheus</sub>
+    </td>
+    <!-- Grafana -->
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
+      <br><sub>Grafana</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br><sub>Apache Kafka</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br><sub>Redis</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br><sub>MongoDB</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/neo4j/008CC1" width="48" height="48" alt="Neo4j" />
+      <br><sub>Neo4j</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><sub>Docker</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><sub>Linux</sub>
+    </td>
+  </tr>
+</table>
 
-Technical Stack
+### Build & Testing
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+      <br><sub>Maven</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
+      <br><sub>Gradle</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" width="48" height="48" alt="JUnit 5" />
+      <br><sub>JUnit 5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" />
+      <br><sub>Mocking</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br><sub>CI/CD</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><sub>Git</sub>
+    </td>
+  </tr>
+</table>
 
-• Languages: Java (Core, Stream API), C++ (Systems Programming, Syntax Evaluation), SQL
-• Backend & Frameworks: Spring Boot, Spring Security, Spring Data JPA, Spring Boot Starters
-• Security & IAM: Keycloak (Identity and Access Management), JWT, Role-Based Access Control (RBAC)
-• AI & Data Science: Computer Vision, Pattern Recognition, Machine Learning Hub Infrastructures
-• Databases & DevOps: PostgreSQL, Git, GitHub Ecosystem
+### Tools & Practices
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+      <br><sub>IntelliJ IDEA</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br><sub>Postman</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br><sub>C++</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <br><sub>OpenCV</sub>
+    </td>
+  </tr>
+</table>
 
-Key Engineering Projects
+---
 
+## Engineering Projects
 
-Car-Plate-Tracker
+### [role-converter-keycloak](https://github.com/Gendarmee/role-converter-keycloak)
+**Enterprise Security Infrastructure (Spring Boot Starter)**
+- Designed a reusable Spring Boot Starter for custom Role-Based Access Control (RBAC) in microservices.
+- Integrated with Keycloak IAM, optimizing JWT token parsing and eliminating boilerplate across services.
+- Implemented Liquibase migrations for schema versioning and optimized JitPack publication pipeline.
+- **Stack**: Java 21, Spring Boot 3, Spring Security, Keycloak, Liquibase, Maven, JUnit 5
 
-An automated, high-accuracy intelligent system for vehicle registration plate recognition and spatial tracking.
-• Computer Vision Integration: Implemented custom algorithms to process and analyze video feeds, ensuring fast and deterministic plate extraction.
-• State Machine Logic: Designed a backend pipeline to log, track, and manage vehicle state transitions in real time.
-• Public Recognition: The project was awarded 1st Place at the Vitebsk Hackathon for IT Developers and 2nd Place at the VSU Annual Youth Innovation Project Competition.
+### [BulbaScript](https://github.com/Gendarmee/BulbaScript)
+**Low-Level Script Evaluation Engine (C++)**
+- Built a custom lexical analyzer and parser from scratch for proprietary syntax tokenization.
+- Enforced strict memory management to guarantee deterministic execution speed and safety.
+- Demonstrates deep understanding of compiler design and low-level system programming.
+- **Stack**: C++, Memory Management, Compiler Design
 
-Keycloak Custom Role Converter (role-converter-keycloak)
+### [NexusAI](https://github.com/Gendarmee/NexusAI)
+**Centralized AI Services Hub Infrastructure**
+- Architected scalable API gateways to orchestrate requests between multiple neural network layouts.
+- Designing a fault-tolerant Payment Service module with transaction handling and audit trails.
+- **Stack**: Java 21, Spring Boot, PostgreSQL, Docker, REST API Design
 
-An open-source corporate security tool designed to streamline authorization architectures in microservices.
-• Modular Architecture: Engineered a reusable Spring Boot Starter component that seamlessly injects into existing enterprise ecosystems.
-• Security Optimization: Implemented a customizable role conversion mechanism for Keycloak tokens, reducing boilerplate code in token extraction and strengthening security policies.
+### Car-Plate-Tracker
+**Real-time Vehicle Recognition & Spatial Tracking System**
+- Implemented custom Computer Vision algorithms for deterministic plate extraction from video feeds.
+- Designed a Finite State Machine (FSM) backend pipeline for real-time vehicle state management.
+- **Recognition**: 🥇 1st Place, Technopark "Law and Order" Hackathon | 🥈 2nd Place, VSU Innovation Competition
+- **Stack**: Java, OpenCV, Spring Boot, PostgreSQL, State Machine Design
 
-NexusAI (Belarus AI Hub Ecosystem)
+---
 
-An infrastructure-level platform designed to act as a centralized hub for Artificial Intelligence services.
-• System Design: Architected the foundation for the first comprehensive AI hub tailored for the Belarusian developer community.
-• API Management: Built scalable endpoints capable of orchestrating requests between multiple neural network layouts and end consumers.
+## Architectural Approach
 
-BulbaScript
+- **Domain-Driven Design (DDD)**: Bounded contexts, aggregates, and domain events for complex business logic.
+- **Layered Architecture**: Clear separation of concerns (Controller → Service → Repository) with proper exception translation.
+- **Event-Driven Architecture**: Kafka-based asynchronous communication for scalable microservices.
+- **Testability First**: Comprehensive unit tests (JUnit 5, Mockito) and integration tests (Testcontainers).
+- **Security by Design**: IAM, RBAC, and data mutability constraints as foundational elements.
+- **Modern Java**: Leveraging Java 21 features (Records, Pattern Matching, Virtual Threads) for cleaner, more efficient code.
 
-A custom script evaluation engine written from scratch in C++.
-• Compiler Design: Developed a lightweight lexical analyzer and parser to handle custom syntax tokenization.
-• Memory Management: Leveraged low-level C++ features to ensure safe memory allocation and high execution speed during script processing.
+---
 
-Awards & Achievements
+## GitHub Metrics
 
-• 🥇 1st Place Winner — City-wide Professional Hackathon for IT Developers (Technopark "Law and Order")
-• 🥈 2nd Place Winner — Best Youth Innovation Project Competition (VSU)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gendarmee&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gendarmee&theme=highcontrast&layout=compact&hide_border=true&hide=html,css&langs_count=8" alt="Top Languages" />
+</p>
 
-Languages
+---
 
-• Russian: Native
-• English: Technical Proficiency (Reading complex documentation, writing clean code comments, drafting repository architecture guidelines, and conducting asynchronous GitHub discussions).
+## Contact & Availability
+
+<p align="center">
+  <strong>Currently seeking Java Backend Engineer opportunities</strong><br>
+  <sub>Open to remote, hybrid, or relocation | Available for full-time or contract work</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
